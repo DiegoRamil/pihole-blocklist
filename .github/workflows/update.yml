@@ -31,7 +31,9 @@ jobs:
           go build .
 
       - name: Execute blocklist
-        run: ./bluam/bluam
+        run: |
+          cd bluam
+          ./bluam
 
       - name: Change files
         run: |
