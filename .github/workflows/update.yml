@@ -28,7 +28,7 @@ jobs:
         run: |
           cd bluam
           go mod tidy
-          go run build .
+          go build .
 
       - name: Execute blocklist
         run: ./bluam/bluam
