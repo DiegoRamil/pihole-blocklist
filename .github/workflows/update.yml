@@ -50,4 +50,5 @@ jobs:
             git push
           else
             echo "There was no changes to commit"
+          fi
 
