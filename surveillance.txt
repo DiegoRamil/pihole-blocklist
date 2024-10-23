@@ -20396,6 +20396,7 @@ at.mclaren.com
 at.neom.com
 at.norisbank.de
 at.ontargetjobs.com
+at.pagesjaunes.fr
 at.postbank.de
 at.sharpmarketing.eu
 at.swisscom.ch
@@ -59384,6 +59385,7 @@ in-cdn.effectivemeasure.net
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ftd-107.da1.vip.prod.criteo.com
 in-ftd-107.fr3.vip.prod.criteo.com
+in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
