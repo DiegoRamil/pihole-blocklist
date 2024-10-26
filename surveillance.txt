@@ -16481,6 +16481,7 @@ analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.vodafone.co.uk
 analytics.voissa.fr
+analytics.vortexscans.com
 analytics.wanmei.com
 analytics.warnertv.fr
 analytics.wavebox.io
@@ -45654,7 +45655,6 @@ failmobile.net
 failover-telemetry-eu.tradingview.com
 failuremarketing.com
 fain-stolymolly.blogspot.com
-faintestlogic.com
 fair.sogou.com
 fairchildvillagetownhomeshoa.com
 fairdatacenter.de
@@ -55421,6 +55421,7 @@ hits.dealer.com
 hits.epochstats.com
 hits.europuls.eu
 hits.getelevar.com
+hits.gokwik.co
 hits.guardian.co.uk
 hits.icdirect.com
 hits.informer.com
@@ -59222,6 +59223,8 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.sg1.vip.prod.criteo.com
+in-ftd-109.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
 in-ftd-65.jp2.vip.prod.criteo.com
@@ -101112,7 +101115,6 @@ omgmta1.qq.com
 omgt1.com
 omgt3.com
 omgt4.com
-omgt6.com
 omguk.com
 omhomestay.com
 omjtca.emlakjet.com
@@ -110996,6 +110998,7 @@ pulse.data.flurry.com
 pulse.delta.com
 pulse.inmobi.com
 pulse.munsonhealthcare.org
+pulse.shopflo.com
 pulse.svod.aetnd.com
 pulseappliance.com
 pulselustrae.top
@@ -128901,6 +128904,7 @@ sr2.liveperson.net
 sr59t7wbx5.claricelin.com
 sradhaorganicsquare.com
 sraydance.xyz
+src.freshmarketer.in
 src.kitcode.net
 src.leju.com
 srcbusinesscard.com
