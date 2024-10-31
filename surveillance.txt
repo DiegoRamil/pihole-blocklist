@@ -59179,6 +59179,7 @@ in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
@@ -61470,7 +61471,6 @@ interplanetaryunexclusive.store
 interportsworld.com
 interpretation-reves.fr
 interreklame.de
-intersectionweigh.com
 intersistemas-cme.com
 interstellar.qifo.info
 interstellarinsight.quest
@@ -117596,7 +117596,6 @@ sayhello.popunder.ru
 sayherbal.com
 saymedia.com
 sayu.co.uk
-sayutracking.co.uk
 sazeracsymphony.live
 sazka.cz
 sb.eghe.skin
@@ -119345,7 +119344,6 @@ selftour.walk.in
 sell-fb-group-here.com
 sell.systeem-pow.top
 sellatex.com
-sellathon.com
 sellbazzar.com
 sellerapp.musely.com
 sellers.urekamedia.com
@@ -129052,6 +129050,7 @@ srv222776.hoster-test.ru
 srv2trking.com
 srv7.admedit.net
 srv72300.seohost.com.pl
+srvgl.com
 srvkcnyhd.org
 srvmath.com
 srvpub.com
@@ -149869,7 +149868,6 @@ webbookmakers.com
 webbot.oncustomer.asia
 webbyo.com
 webcamsex.nl
-webcare.byside.com
 webcash.nl
 webcashmaker.com
 webcasts.de.ni.com
