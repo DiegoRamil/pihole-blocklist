@@ -39326,6 +39326,7 @@ dmp.adblade.com
 dmp.adotmob.com
 dmp.adviad.com
 dmp.brand-display.com
+dmp.citynews.ovh
 dmp.eclick.vn
 dmp.fout.jp
 dmp.gravity4.com
