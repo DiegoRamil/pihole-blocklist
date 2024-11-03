@@ -59493,6 +59493,7 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
@@ -60267,7 +60268,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.mshs.com
 info.multiburo.com
@@ -82657,7 +82657,10 @@ mkt12235.com
 mkt12236.com
 mkt12237.com
 mkt12238.com
+mkt12239.com
 mkt1224.com
+mkt12240.com
+mkt12241.com
 mkt1225.com
 mkt1226.com
 mkt1227.com
@@ -146423,7 +146426,6 @@ vg.illg.top
 vg.njdmald.com
 vg.wxru.lat
 vg1csq.top
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vg66.app
 vg66.com
