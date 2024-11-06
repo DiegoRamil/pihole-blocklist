@@ -44231,6 +44231,7 @@ errordesk.com
 errorfixing.space
 errornuker.software-phile.com
 errorreports.couponcabin.com
+errors.darkreader.app
 errors.imrworldwide.com
 errors.perfectgonzo.com
 errors.snackly.co
@@ -59651,6 +59652,7 @@ in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.jp2.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
@@ -131644,6 +131646,7 @@ statistics-bt.wildberries.ru
 statistics-vov2.vov.vn
 statistics.csob.cz
 statistics.daktilo.com
+statistics.darkreader.app
 statistics.elsevier.nl
 statistics.fppressa.ru
 statistics.heatbeat.de
@@ -131874,6 +131877,7 @@ stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
+stats.darkreader.app
 stats.dashbit.co
 stats.data2.ero-advertising.com
 stats.datahjaelp.net
