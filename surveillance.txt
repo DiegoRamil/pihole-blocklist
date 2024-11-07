@@ -21438,7 +21438,6 @@ b.iwanna.southwest.com
 b.iy.com.cn
 b.jinxiutengzhou.cn
 b.jp2.vip.prod.criteo.com
-b.karte.io
 b.koodomobile.com
 b.latotip.top
 b.law.com
@@ -71148,7 +71147,6 @@ logger.omio.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.torimochi-ad.net
-logger.unsplash.com
 logger.uol.com.br
 logger.virgul.com
 logger.yp.ca
@@ -82869,6 +82867,8 @@ mkt12239.com
 mkt1224.com
 mkt12240.com
 mkt12241.com
+mkt12242.com
+mkt12243.com
 mkt1225.com
 mkt1226.com
 mkt1227.com
@@ -132949,7 +132949,6 @@ stimg.iand2ch.net
 stimg.thench.net
 stimgc.iand2ch.net
 stimgc.thench.net
-stimulateartificial.com
 stimulatingsneeze.com
 stingcomputing.com
 stinger-ad.bidr.io
@@ -135629,7 +135628,6 @@ tags.news.com.au
 tags.onscroll.com
 tags.op-palvelut.fi
 tags.premiumads.com.br
-tags.refinery89.com
 tags.soloway.ru
 tags.spider-mails.com
 tags.srv.stackadapt.com
