@@ -8575,7 +8575,6 @@ ad.insightexpress.com
 ad.insightexpressai.com
 ad.inter-edu.com
 ad.intl.xiaomi.com
-ad.investmap.pl
 ad.ipadview.com
 ad.ipredictive.com
 ad.ir.ru
@@ -121311,6 +121310,7 @@ sheregesh-io.traveler.today
 sheridanminutes.fun
 shesubscriptions.com
 shfre.czarnaorchidea.life
+shgcdn3.com
 shhnk.com
 shhoix0fuonj0hz6.net.fidor.de
 shiawasseetimes.com
@@ -132692,6 +132692,7 @@ statsfe2.ws.microsoft.com
 statsforads.com
 statsie.com
 statsig.com
+statsjs.klevu.com
 statsloterij.nederlandseloterij.nl
 statsmp2.emol.com
 statsp.fpop.net
