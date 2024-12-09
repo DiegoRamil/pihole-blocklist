@@ -571,7 +571,6 @@ aquariumopt.com
 aquasportkleidung.com
 aquaticsarea.com
 aquaticsart-ebikes.com
-aquaticscategory.com
 aquaticsportscp.com
 aquaticsstoreus.com
 aquavento.shop
@@ -712,7 +711,6 @@ atologiesm.com
 atomicfundvest.ltd
 aton-invest.com
 atossy.de
-atsholz.com
 attirebaseball.com
 attirefad.com
 attiremen.com
@@ -2608,7 +2606,6 @@ demoniajapan.com
 demoniaonlineshop.com
 demoniaportugal.com
 demoniaromania.com
-demoniaschuhe.de
 demoniashoesnorge.com
 demoniastiefel.de
 demoniasuomi.com
@@ -3543,7 +3540,6 @@ fadtennis.com
 fahrrad-barth.com
 fahrrad-handels.de
 fahrrad-handels.net
-fahrrad-herrmans.de
 fahrrad-komponenten.com
 fahrrad-moltisanti.com
 fahrrad-versand.com
@@ -4788,7 +4784,6 @@ hair-oil.store
 haircareluxury.com
 hairfashionary.com
 hairive.com
-hairmpress.com
 halbert-fohrmann-gbr.de
 haleybaby.com
 haller-consulting.net
@@ -6044,7 +6039,6 @@ king-pellets.de
 kingbabystudide.shop
 kingequipshop.com
 kingseven-shop.com
-kingstonbathroom.com
 kinoion.top
 kinopolisentertainment.com
 kiplingfrance.com
@@ -7043,7 +7037,6 @@ merkel-autoreifen.shop
 merlin-apotheke.com
 merlngrant.com
 meroycollection.store
-merrell-osterreich.at
 merrellbarbati.com
 merrellosterreich.at
 merrelloutletonline.de
@@ -7188,7 +7181,6 @@ mlbhungary.com
 mlbshoesaustralia.com.au
 mmafreesm.pics
 mmatrailers.com
-mmc-serv.com
 mmontagnet.com
 mnlsbjsy.com
 mnswellness.com
@@ -8868,7 +8860,6 @@ rabattgabor.de
 rabattherren.com
 rabatthope.de
 rabattkleidung.com
-rabattleuchten.de
 rabattlloyd.de
 rabattloewe.de
 rabattlouboutin.de
@@ -11693,6 +11684,7 @@ vegacapital.pro
 vehiclesdaily.com
 veja-ireland.net
 veja.at
+veja.co.at
 veja.com.gr
 vejaathensgreece.net
 vejaaustria.at
