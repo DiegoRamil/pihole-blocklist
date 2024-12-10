@@ -3540,6 +3540,7 @@ fadtennis.com
 fahrrad-barth.com
 fahrrad-handels.de
 fahrrad-handels.net
+fahrrad-herrmans.de
 fahrrad-komponenten.com
 fahrrad-moltisanti.com
 fahrrad-versand.com
@@ -4152,7 +4153,6 @@ galaxyfox.io
 galeme.com
 galerieoswald.de
 gambotmaschinen.com
-game-byte.com
 game-str.com
 game.toys
 gamebasic-de.com
@@ -4172,7 +4172,6 @@ gamesruslivde.shop
 gamesstudionuernberg.com
 gamestopde.de
 gamestopland.com
-gamestoponline.de
 gametimejerseys.com
 gameverkauf.de
 gaming-gorilla.de
@@ -4183,7 +4182,6 @@ gamingonline.store
 gamingpark.net
 gamingplanet.eu
 gamingplaza.de
-gamingstuhl-de.de
 gammatech.store
 ganggeschenk.com
 gantcliver.com
@@ -4254,7 +4252,6 @@ gartenschritte.de
 gartensgeschaft.com
 gartenshop-marsmann.de
 gartentor.shop
-gartenunfreizeit.com
 gartenzon.de
 gartio-shop.com
 gartio.net
@@ -4487,7 +4484,6 @@ gluecksraupe.shop
 glueckstore.de
 gluschwein.de
 gm-portal.co
-gmbholz.com
 gmd-koeln.de
 gmiglfx.com
 gmm-holzgmbh.com
@@ -5268,7 +5264,6 @@ hoomir.com
 hoopur.com
 hopandpopde.shop
 hopebikeabout.com
-hopesport.de
 horizon-patrimoine.com
 horizon-shot.com
 hormanns24.de
@@ -6569,7 +6564,6 @@ lokalversand.nl
 lokomofrecund.shop
 lolamarkt.com
 lollipoppydoodle.com
-loloswood.com
 londonemanagement.com
 londonglobalmarkets.com
 londonsunny.com
@@ -8843,7 +8837,6 @@ rabattbacken.com
 rabattbademode.com
 rabattbaukasten.com
 rabattbike.com
-rabattcastelli.de
 rabattchemikalien.com
 rabattcricut.de
 rabattdamen.com
@@ -8858,7 +8851,6 @@ rabattfahrradteile.de
 rabattfornasetti.de
 rabattgabor.de
 rabattherren.com
-rabatthope.de
 rabattkleidung.com
 rabattlloyd.de
 rabattloewe.de
