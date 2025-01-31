@@ -481,6 +481,8 @@ apothekerezeptfrei-1.puzl.com
 apoversand24.com
 app-analyse.de
 app-trader.biz
+app.onlinelebenslauf.com
+app.zety.de
 apparel-mens.com
 apparelbeach.com
 apparelcheap.com
@@ -5816,6 +5818,7 @@ markmale.de
 markt-elektro.com
 markt-forschung.com
 markt-shop.com
+markt.life
 marktexpress.com
 marktpay.com
 marktplatz-apo.com
@@ -6245,7 +6248,6 @@ motorrad-2023.com
 motorrad-levy-elsa.com
 motorrad70.com
 motorraderhelme.de
-motorraders.de
 motorsensen-shop.com
 motzenerdistribution.com
 motzkus-sport24.de
